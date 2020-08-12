@@ -62,5 +62,5 @@ BLOG-POST-LIST:END -->
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jrbenriquez&show_icons=true&hide_border=true" />
 
 [website]: https://jrbenriquez.com
-[twitter]: https://twitter.com/johnrei.enriquez
+[twitter]: https://twitter.com/johnreienriquez
 [linkedin]: https://www.linkedin.com/in/jrbenriquez/
