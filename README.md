@@ -1,11 +1,9 @@
-### Hi there, I'm John Rei 👋
+### Hi there, I'm John Rei 👋 - [JRBENRIQUEZ.COM](https://www.jrbenriquez.com "jrbenriquez.com")
 
-## I'm a Web Developer!
+## I'm a Web Developer! 
 - 🛠 I'm currently in love with Python/Django
 - 🌱 I’m looking to learn more of DevOps
 - ⚡ Fun fact: I love to play bass
-
-[My Website](https://www.jrbenriquez.com "jrbenriquez.com")
 
 ### Connect with me:
 
